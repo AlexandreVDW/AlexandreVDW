@@ -6,7 +6,7 @@ Je suis actuellement en formation à BeCode Charleroi en tant que junior dévelo
 
 ## Objectif Actuel
 
-Mon objectif est d'acquérir une expérience pratique en tant que développeur et d'appliquer les compétences que j'ai acquises au cours de ma formation. Je suis actuellement à la recherche d'un stage à partir de mars 2023 pour mettre en pratique mes connaissances et contribuer à des projets concrets.
+Mon objectif est d'acquérir une expérience pratique en tant que développeur et d'appliquer les compétences que j'ai acquises au cours de ma formation. Je suis actuellement à la recherche d'un stage à partir de mars 2024 pour mettre en pratique mes connaissances et contribuer à des projets concrets.
 
 ## Language learn 
 
