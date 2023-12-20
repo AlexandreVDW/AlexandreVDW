@@ -2,11 +2,18 @@
 
 ## À Propos de Moi
 
-Je suis actuellement en formation à BeCode Charleroi en tant que junior développeur backend. Passionné par le monde du développement web, je me spécialise dans des technologies telles que PHP, OOP, et MVC.
+Je suis actuellement en formation à BeCode Charleroi en tant que junior développeur orienté backend. Passionné par le monde du développement web, je me spécialise dans des technologies telles que PHP, OOP, et MVC.
 
 ## Objectif Actuel
 
 Mon objectif est d'acquérir une expérience pratique en tant que développeur et d'appliquer les compétences que j'ai acquises au cours de ma formation. Je suis actuellement à la recherche d'un stage à partir de mars 2023 pour mettre en pratique mes connaissances et contribuer à des projets concrets.
+
+## Contact
+
+N'hésitez pas à me contacter pour discuter de projets, d'opportunités de collaboration ou simplement pour échanger sur le développement web !
+
+- 📧 Email professionnel : [vandewielealexandre@gmail.com](vandewielealexandre@gmail.com)
+- 🔗 LinkedIn : [Alexandre Vandewiele](https://www.linkedin.com/in/alexandre-vandewiele/)
 
 ## Language learn 
 
@@ -33,3 +40,4 @@ Mon objectif est d'acquérir une expérience pratique en tant que développeur e
 - 🧠 MVC (Modèle-Vue-Contrôleur)
 - 📦 Namespace
 - 🔄 OOP (Programmation Orientée Objet)
+- ⚙️ Création d'une API en PHP
