@@ -1,43 +1,44 @@
-# Bienvenue sur mon profil GitHub ! 👋
+# Welcome to my GitHub profile! 👋
 
-## À Propos de Moi
+## About Me
 
-Je suis actuellement en formation à BeCode Charleroi en tant que junior développeur orienté backend. Passionné par le monde du développement web, je me spécialise dans des technologies telles que PHP, OOP, et MVC.
+I am currently undergoing training at BeCode Charleroi as a junior backend developer. Passionate about the world of web development, I specialize in technologies such as PHP, OOP, and MVC.
 
-## Objectif Actuel
+## Current Goal
 
-Mon objectif est d'acquérir une expérience pratique en tant que développeur et d'appliquer les compétences que j'ai acquises au cours de ma formation. Je suis actuellement à la recherche d'un stage à partir de mars 2024 pour mettre en pratique mes connaissances et contribuer à des projets concrets.
+My goal is to gain practical experience as a developer and apply the skills I've acquired during my training. I am currently seeking an internship starting from March 2024 to put my knowledge into practice and contribute to concrete projects.
 
-## Language learn 
+## Language Learning
 
 ### Front-end 
 
-[![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SCSS](https://img.shields.io/badge/SCSS-3.7.4-pink)](https://sass-lang.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML-orange)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS](https://img.shields.io/badge/CSS-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS](https://img.shields.io/badge/SCSS-pink)](https://sass-lang.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-#### Concepts Learn 
+#### Learned Concepts
 
 - 📱 Responsive Design
-- 🎨 Framework CSS (ex. [Tailwind CSS](https://tailwindcss.com/))
+- 🎨 CSS Framework (e.g., [Tailwind CSS](https://tailwindcss.com/))
 - 🌐 DOM (Document Object Model)
 
 ### Back-end
 
-[![PHP](https://img.shields.io/badge/PHP-7.4-blue)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/PHP-blue)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-red)](https://laravel.com/)
 [![SQL](https://img.shields.io/badge/SQL-MySQL-blueviolet)](https://dev.mysql.com/doc/)
 
-#### Concepts Learn
+#### Learned Concepts
 
-- 🧠 MVC (Modèle-Vue-Contrôleur)
+- 🧠 MVC
 - 📦 Namespace
-- 🔄 OOP (Programmation Orientée Objet)
-- ⚙️ Création d'une API en PHP
+- 🔄 OOP
+- ⚙️ PHP API Development
 
 ## Contact
 
-N'hésitez pas à me contacter pour discuter de projets, d'opportunités de collaboration ou simplement pour échanger sur le développement web !
+Feel free to contact me to discuss projects, collaboration opportunities, or simply to exchange ideas about web development!
 
-- 📧 Email professionnel : [vandewielealexandre@gmail.com](vandewielealexandre@gmail.com)
-- 🔗 LinkedIn : [Alexandre Vandewiele](https://www.linkedin.com/in/alexandre-vandewiele/)
+- 📧 Professional Email: [vandewielealexandre@gmail.com](vandewielealexandre@gmail.com)
+- 🔗 LinkedIn: [Alexandre Vandewiele](https://www.linkedin.com/in/alexandre-vandewiele/)
